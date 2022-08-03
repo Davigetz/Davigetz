@@ -11,13 +11,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
  <strong>Soy Full Stack Web Developer</strong><br>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="300"/>
-</div>
-</div>
 ---
-
-### :man_technologist: About Me:
+ 
+ ### :man_technologist: About Me:
 > I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.
 :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-david-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/davigetz-developer/))
 I am passionate about generating new ways of interacting. I love 😋 programming, I am hungry for new knowledge. I am a professional when it comes to working individually or in a group, therefore I consider that human relations and teamwork are essential to do what you are passionate about.
@@ -26,6 +22,11 @@ I am passionate about generating new ways of interacting. I love 😋 programmin
 > Soy un Desarrollador <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> de Colombia.
 :mailbox: Contactame a través de: [![Linkedin Badge](https://img.shields.io/badge/-david-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/davigetz-developer/))
  Me apasiona generar nuevas maneras de interactuar. Me encanta 😋 la programación, estoy ávido de nuevos conocimientos. Soy profesional a la hora de trabajar individualmente o en grupo por lo tanto considero que las relaciones humanas y el trabajo en equipo son fundamentales para hacer lo que te apasiona.
+---
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="300"/>
+</div>
+</div>
 ---
 
 ### :hammer_and_wrench: Languages and Tools: | :hammer_and_wrench: Lenguajes y Herramientas
