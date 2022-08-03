@@ -10,6 +10,8 @@
   hey there | hola, Soy David Gomez! Mucho Gusto!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+ <strong>Soy Full Stack Web Developer</strong><br>
+  Me apasiona generar nuevas maneras de interactuar. Me encanta 😋 la programación, estoy habido de nuevos conocimientos. Soy profesional a la hora de trabajar individualmente o en grupo por lo tanto considero que las relaciones humanas y el trabajo en equipo son fundamentales para hacer lo que te apasiona.
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="300"/>
 </div>
