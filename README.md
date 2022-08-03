@@ -22,7 +22,7 @@
 ---
 ### :man_technologist: Sobre Mí:
 > Soy un Desarrollador <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> de Colombia.
-:mailbox: Contacterme a traves de: [![Linkedin Badge](https://img.shields.io/badge/-david-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/davigetz-developer/))
+:mailbox: Contactame a través de: [![Linkedin Badge](https://img.shields.io/badge/-david-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/davigetz-developer/))
 ---
 
 ### :hammer_and_wrench: Languages and Tools: | :hammer_and_wrench: Lenguajes y Herramientas
