@@ -11,9 +11,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
  <strong>Soy Full Stack Web Developer</strong><br>
+
 ---
-  
-  
+    
  ### :man_technologist: About Me:
 > I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.
 :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-david-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/davigetz-developer/))
