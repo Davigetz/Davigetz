@@ -7,7 +7,7 @@
   </a>
 </div>
 <h1>
-  hey there | hola, Soy David Gomez! Mucho Gusto!
+  Hey there, I am David Gómez | Hola, Soy David Gomez!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
  <strong>Soy Full Stack Web Developer</strong><br>
